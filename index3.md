@@ -24,7 +24,7 @@ table { border:1px solid black; }
 <img src="flynn.jpg"/>
 <p><strong>Flynn:</strong>Happy kitty, sleepy kitty.</p>
 
-<img src="quorra.jpg"/>
+<img src="quorra(1).jpg"/>
 <p><b>Quorra:</b>Mii-ow Fit.</p>
 
 <h4>Cat Shopping List</h4>
